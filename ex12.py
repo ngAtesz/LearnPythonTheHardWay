@@ -10,6 +10,9 @@ print("So, you're %r old, %r tall and %r heavy." % (
 """
 Study Drills:
 1. Use 'python -m pydoc raw_input' on Windows
+Or just create a batch file with:
+    @pythonFolder @pythonFolder\Lib\pydoc.py %*
+    and create a environment variable named "pydoc" so we can use it from command line
 """
 
 import pydoc
