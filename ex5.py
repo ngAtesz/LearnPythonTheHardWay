@@ -1,4 +1,4 @@
-__author__ = 'asus'
+__author__ = 'ngAtesz'
 
 my_name = "Attila Molnar"
 my_age = 26

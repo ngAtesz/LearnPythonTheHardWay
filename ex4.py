@@ -1,4 +1,4 @@
-__author__ = 'asus'
+__author__ = 'ngAtesz'
 
 cars = 100
 space_in_a_car = 4.0

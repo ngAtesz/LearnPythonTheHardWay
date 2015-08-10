@@ -1,4 +1,4 @@
-__author__ = 'Atesz'
+__author__ = 'ngAtesz'
 print "Hello World"
 print "Hello Again"
 print "I like typing this."
