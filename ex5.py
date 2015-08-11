@@ -1,4 +1,5 @@
 __author__ = 'ngAtesz'
+# http://learnpythonthehardway.org/book/ex5.html
 
 my_name = "Attila Molnar"
 my_age = 26

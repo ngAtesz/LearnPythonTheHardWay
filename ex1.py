@@ -1,4 +1,6 @@
 __author__ = 'ngAtesz'
+# http://learnpythonthehardway.org/book/ex1.html
+
 print "Hello World"
 print "Hello Again"
 print "I like typing this."

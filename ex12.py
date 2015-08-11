@@ -1,4 +1,5 @@
 __author__ = 'ngAtesz'
+# http://learnpythonthehardway.org/book/ex12.html
 
 age = input("How old are you? ")
 height = input("How tall are you? ")

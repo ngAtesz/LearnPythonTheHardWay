@@ -1,4 +1,5 @@
 __author__ = 'ngAtesz'
+# http://learnpythonthehardway.org/book/ex6.html
 
 x = "There are %d types of people" % 10
 binary = "binary"

@@ -1,4 +1,5 @@
 __author__ = 'ngAtesz'
+# http://learnpythonthehardway.org/book/ex9.html
 
 # Here is some new strange stuff, remember type it exactly
 
