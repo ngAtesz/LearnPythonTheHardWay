@@ -1,4 +1,5 @@
 __author__ = 'ngAtesz'
+# http://learnpythonthehardway.org/book/ex16.html
 
 from sys import argv
 
